@@ -60,7 +60,8 @@ button{
     align-items: center;
 }
 button:hover{
-    
+    color:white;
+    background-color: purple;
 }
 button img{
     width: 19px;
